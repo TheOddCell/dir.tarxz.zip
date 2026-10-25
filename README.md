@@ -15,3 +15,5 @@ tarxz.zip contains the Linux Kernel version 6.19, which is licenced under the GN
 - This uses the defconfig `i386_defconfig` for x86;
 
 To use the embedded Busybox/Linux seperatly, run the command `temu https://boot.tarxz.zip/`
+
+Contains ten bajillion 88x31s from various sources
